@@ -2,7 +2,9 @@
 
 Github Statistics
 
+
 Profile Visits
+
 ![Profile View Counter](https://profile-counter.glitch.me/ryongerringer/count.svg)
 
 
