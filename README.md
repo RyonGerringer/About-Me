@@ -18,3 +18,9 @@ Visits
 
 # Contact Me
 [![Gmail](https://img.icons8.com/bubbles/50/000000/gmail.png)](mailto:ryongerringer@gmail.com)&nbsp;
+
+
+
+
+![Readme Jokes](https://readme-jokes.vercel.app/api)
+
