@@ -2,7 +2,8 @@
 
 Github Statistics
 
-![ryongerringer](https://komarev.com/ghpvc/?username=ryongerringer&label=Visitors&color=0e75b6&style=flat)
+![Profile View Counter](https://profile-counter.glitch.me/ryongerringer/count.svg)
+
 
 
 
